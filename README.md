@@ -180,7 +180,7 @@ public class Game {
                 |
                书房-----------卧室
       ```
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200407162219587.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70#pic_center)
+![在这里插入图片描述](castle.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70#pic_center)
 # 说说代码的问题
 没法说，太多了……看后面咋改吧。。。
 
